@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.claude
+
+# Archivos generados por el compilador de TypeScript
+*.tsbuildinfo
+vite.config.js
+vite.config.d.ts
